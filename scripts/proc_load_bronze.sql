@@ -1,6 +1,8 @@
 /*
 This Stored Procedure is meant to truncate existing data and load fresh data in bronze schema for all the tables related crm and erp 
 from source crm and erp files
+
+The command to run this procedure is exec bronze.load_bronze;    
 */
 
 
