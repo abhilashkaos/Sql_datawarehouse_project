@@ -1,4 +1,5 @@
-
+/* This DDL script creates tables in Silver Schema to store transformed data from Bronze layer Tables.
+it first drops an already created table and creates new Tables */
 
 
 -- ============================================================
